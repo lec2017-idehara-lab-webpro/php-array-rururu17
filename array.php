@@ -27,7 +27,7 @@ print('<hr \>');
 
 foreach($fruits as $f => $c)
 {
-  print("$f, $c");
+  print("$f | $c<br>\n");
 }
 
  ?>
